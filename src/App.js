@@ -21,7 +21,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>Hello from Danylo</p>
-        <p>On Heroku</p>
         <hr className="hr" />
 
         <label>Enter Photo aliases:</label>
